@@ -15,8 +15,8 @@ body {
 }
 
 .siliconValley {
-    width: 50%;
-    height:50%;
+    width: 700px;
+    height: 500px;
 }
 
 #caption {
@@ -54,4 +54,8 @@ button {
 body{
 
     margin-left:20px;
+}
+
+#answer{
+    font-size: 50px;
 }
